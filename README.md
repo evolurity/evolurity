@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/exciting-opportunities">
+  <a href="https://www.linkedin.com/in/exciting-opportunities" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/virginity8/">
