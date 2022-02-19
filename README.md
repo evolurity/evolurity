@@ -28,6 +28,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/virginity8/">
     <img src="https://img.shields.io/badge/instagram-FF00FF.svg?&style=flat&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://vk.com/exciting_opportunities">
+    <img src="https://img.shields.io/badge/vk-%230077B5.svg?&style=flat&logo=vk&logoColor=white" />
+  </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100064688205419">
     <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=flat&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
