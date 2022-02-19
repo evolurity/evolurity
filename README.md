@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/exciting-opportunities" target="_blank">
+  <a href="https://www.linkedin.com/in/exciting-opportunities">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/virginity8/">
+  <a href="https://www.instagram.com/virginity8/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-FF00FF.svg?&style=flat&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://vk.com/exciting_opportunities">
