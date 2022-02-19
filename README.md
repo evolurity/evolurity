@@ -41,18 +41,17 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100064688205419">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/facebook/follow/id=100064688205419?color=55960c&labelColor=488207&label=Follow&logo=facebook&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/exciting-opportunities">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/exciting-opportunities?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://twitter.com/exciopp">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/exciopp?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-     <a href="https://github.com/exciting-opportunities">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/exciting-opportunities?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p>
+  </p>
 
 
 ##  About me:
 <p>
-• Front-end Developer. I have commercial relevant experience in working with a technology stack: React, JavaScript, TypeScript, Redux. <br>
+  <bold>Front-end Developer.</bold> <br>
+• I have commercial relevant experience in working with a technology stack: React, JavaScript, TypeScript, Redux. <br>
 • My current goal is high-quality and speedy professional growth. <br>
 • Persistent in self-studying and mastering new technologies, self-motivated, hard-working and reliable. <br>
 <br>
