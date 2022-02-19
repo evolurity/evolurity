@@ -58,13 +58,13 @@ Here are some ideas to get you started:
 • Persistent in self-studying and mastering new technologies, self-motivated, hard-working and reliable. <br>
 <br>
 Skills: <br>
-• Languages: JavaScript, TypeScript, at a basic level: Java, C#, Python, PHP, SQL <br>
-• Technologies: HTML5/CSS3, LESS, SASS/SCSS, Jest, Unit Testing, ESLint, Redux Thunk, BEM Methodology, Webpack, Babel.js, Ajax, REST, NodeJs, OOP, SOLID, NPM, Firebase, styled-components, Effector.js, Recoil,js <br>
-• Frameworks and Libraries: ReactJS, Redux, Storybook, Bootstrap, Ant Design, axios, React Router <br>
-• Data Bases: Microsoft SQL Server, MySQL, SQLite, MongoDB, PostgreSQL <br>
-• Version Control: Git, GitHub, Gitlab <br>
-• Software Engineering Management: JIRA, Trello <br>
-• Agile: KANBAN, SCRUM, Code Review Process, Git-Flow <br>
+• Languages: JavaScript, TypeScript, at a basic level: Java, C#, Python, PHP, SQL. <br>
+• Technologies: HTML5/CSS3, LESS, SASS/SCSS, Jest, Unit Testing, ESLint, Redux Thunk, BEM Methodology, Webpack, Babel.js, Ajax, REST, NodeJs, OOP, SOLID, NPM, Firebase, styled-components, Effector.js, Recoil,js. <br>
+• Frameworks and Libraries: ReactJS, Redux, Storybook, Bootstrap, Ant Design, axios, React Router. <br>
+• Data Bases: Microsoft SQL Server, MySQL, SQLite, MongoDB, PostgreSQL. <br>
+• Version Control: Git, GitHub, Gitlab. <br>
+• Software Engineering Management: JIRA, Trello. <br>
+• Agile: KANBAN, SCRUM, Code Review Process, Git-Flow. <br>
 <br>
 
 My hobbies: astrophysics, philosophy, economics and investment, sports. <br>
