@@ -48,21 +48,21 @@ Here are some ideas to get you started:
 
 ##  About me:
 <p>
-• Front-end Developer. I have commercial relevant experience in working with a technology stack: React, JavaScript, TypeScript, Redux.
-• My current goal is high-quality and speedy professional growth.
-• Persistent in self-studying and mastering new technologies, self-motivated, hard-working and reliable.
+• Front-end Developer. I have commercial relevant experience in working with a technology stack: React, JavaScript, TypeScript, Redux. <br>
+• My current goal is high-quality and speedy professional growth. <br>
+• Persistent in self-studying and mastering new technologies, self-motivated, hard-working and reliable. <br>
+<br>
+Skills: <br>
+• Languages: JavaScript, TypeScript, at a basic level: Java, C#, Python, PHP, SQL <br>
+• Technologies: HTML5/CSS3, LESS, SASS/SCSS, Jest, Unit Testing, ESLint, Redux Thunk, BEM Methodology, Webpack, Babel.js, Ajax, REST, NodeJs, OOP, SOLID, NPM, Firebase, styled-components, Effector.js, Recoil,js <br>
+• Frameworks and Libraries: ReactJS, Redux, Storybook, Bootstrap, Ant Design, axios, React Router <br>
+• Data Bases: Microsoft SQL Server, MySQL, SQLite, MongoDB, PostgreSQL <br>
+• Version Control: Git, GitHub, Gitlab <br>
+• Software Engineering Management: JIRA, Trello <br>
+• Agile: KANBAN, SCRUM, Code Review Process, Git-Flow <br>
+<br>
 
-Skills:
-• Languages: JavaScript, TypeScript, at a basic level: Java, C#, Python, PHP, SQL
-• Technologies: HTML5/CSS3, LESS, SASS/SCSS, Jest, Unit Testing, ESLint, Redux Thunk, BEM Methodology, Webpack, Babel.js, Ajax, REST, NodeJs, OOP, SOLID, NPM, Firebase, styled-components, Effector.js, Recoil,js
-• Frameworks and Libraries: ReactJS, Redux, Storybook, Bootstrap, Ant Design, axios, React Router
-• Data Bases: Microsoft SQL Server, MySQL, SQLite, MongoDB, PostgreSQL
-• Version Control: Git, GitHub, Gitlab
-• Software Engineering Management: JIRA, Trello
-• Agile: KANBAN, SCRUM, Code Review Process, Git-Flow
-
-
-My hobbies: astrophysics, philosophy, economics and investment, sports.
-
-Favorite music artists: Joy Division, The Cure, The Doors, Pink Floyd, Led Zeppelin.
+My hobbies: astrophysics, philosophy, economics and investment, sports. <br>
+<br>
+Favorite music artists: Joy Division, The Cure, The Doors, Pink Floyd, Led Zeppelin. <br>
 </p>
