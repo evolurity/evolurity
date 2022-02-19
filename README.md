@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ##  About me:
 <p>
-  <bold>Front-end Developer.</bold> <br>
+  <b>Frontend Developer.</b> <br>
 • I have commercial relevant experience in working with a technology stack: React, JavaScript, TypeScript, Redux. <br>
 • My current goal is high-quality and speedy professional growth. <br>
 • Persistent in self-studying and mastering new technologies, self-motivated, hard-working and reliable. <br>
