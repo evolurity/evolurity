@@ -42,14 +42,12 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/exciting-opportunities">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/exciting-opportunities?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://twitter.com/exciopp">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/exciopp?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  </p>
-  ![](https://visitor-badge.glitch.me/badge?page_id=exciting-opportunities.exciting-opportunities)
+  </p> -->
 
 
 ##  About me:
