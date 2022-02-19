@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/instagram-FF00FF.svg?&style=flat&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100064688205419">
-    <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
+    <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=flat&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/exciopp">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
