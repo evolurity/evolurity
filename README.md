@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/exciopp">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/exciopp?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   </p>
+  ![](https://visitor-badge.glitch.me/badge?page_id=exciting-opportunities.exciting-opportunities)
 
 
 ##  About me:
