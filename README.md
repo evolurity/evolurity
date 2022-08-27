@@ -1,5 +1,5 @@
 <!--
-**exciting-opportunities/exciting-opportunities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**evolurity/evolurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,31 +22,31 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/exciting-opportunities">
+  <a href="https://www.linkedin.com/in/evolurity/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/virginity8/">
+  <a href="https://www.instagram.com/evolurity/">
     <img src="https://img.shields.io/badge/instagram-FF00FF.svg?&style=flat&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://vk.com/exciting_opportunities">
+  <a href="https://vk.com/evolurity">
     <img src="https://img.shields.io/badge/vk-%230077B5.svg?&style=flat&logo=vk&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/exciting_opportunities">
+  <a href="https://t.me/evolurity">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=flat&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100064688205419">
+<a href="https://www.facebook.com/evolurity/">
     <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=flat&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/exciopp">
+  <a href="https://twitter.com/evolurity">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
 <!-- <p align="center">
-  <a href="https://github.com/exciting-opportunities">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/exciting-opportunities?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://twitter.com/exciopp">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/exciopp?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/evolurity">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/evolurity?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://twitter.com/evolurity">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/evolurity?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   </p> -->
 
 
