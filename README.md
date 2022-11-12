@@ -40,6 +40,9 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/evolurity">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/evolurity">
+    <img src="https://www.codewars.com/users/evolurity/badges/small" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <!-- <p align="center">
@@ -49,6 +52,8 @@ Here are some ideas to get you started:
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/evolurity?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   </p> -->
 
+
+https://www.codewars.com/users/evolurity/badges/small
 
 ##  About me:
 <p>
