@@ -53,7 +53,6 @@ Here are some ideas to get you started:
   </p> -->
 
 
-https://www.codewars.com/users/evolurity/badges/small
 
 ##  About me:
 <p>
