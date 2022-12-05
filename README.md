@@ -56,45 +56,40 @@ Here are some ideas to get you started:
 
 ##  About me:
 <p>
-   I'm a Frontend Developer. I have a bachelor's degree in computer science.
-  I have been working in IT for over four years.
-  During my career, I have worked on many projects in the field of medicine, fintech, banking, real estate and construction, developed blogs, online stores and landing pages.
-  On projects, I was responsible for front-end product development, participated in the full development cycle:
-  - developed front-end part of web applications based on React, TypeScript, JavaScript and Redux technology stack,
-  - defined a stack of technologies and tools for the implementation of specific business tasks,
-  - discussed and formalized business requirements,
-  - decomposed tasks, planned team sprints,
-  - designed a scalable and maintainable architecture,
-  - made architectural decisions, improved the quality of the code base and reduced the amount of technical debt of projects, tracked project coverage with tests,
-  - optimized the performance of the client side of web applications,
-  - configured dev build and continuous integration for projects,
-  - participated in the code review of my team, mentoring and introducing new developers to the project.
+  <b>I'm a Frontend Developer</b>. I have a bachelor's degree in computer science. <br>
+  I have been working in IT for over four years. <br>
+  During my career, I have worked on many projects in the field of medicine, fintech, banking, real estate and construction, developed blogs, online stores and landing pages. <br>
+  On projects, I was responsible for front-end product development, participated in the full development cycle: <br>
+  - developed front-end part of web applications based on React, TypeScript, JavaScript and Redux technology stack, <br>
+  - defined a stack of technologies and tools for the implementation of specific business tasks, <br>
+  - discussed and formalized business requirements, <br>
+  - decomposed tasks, planned team sprints, <br>
+  - designed a scalable and maintainable architecture, <br>
+  - made architectural decisions, improved the quality of the code base and reduced the amount of technical debt of projects, tracked project coverage with tests, <br>
+  - optimized the performance of the client side of web applications, <br>
+  - configured dev build and continuous integration for projects, <br>
+  - participated in the code review of my team, mentoring and introducing new developers to the project. <br>
 
-  At the moment I continue to work as a Frontend Developer.
-  I follow the news and trends in development, I develop both in technical and product directions.
-  I go in the direction of Staff and Principal Engineer.
-  I prefer to work on projects using a modern and relevant front-end technology stack: React, TypeScript, JavaScript, Redux.
-  Feature-Sliced Design is my favorite architectural methodology for frontend projects.
-  The priority for me is the joint work in a team aimed at a quality result.
-  I am considering a completely remote or hybrid format of work, open to relocation proposals.
-  I currently live in Istanbul.
-
-
-  My hobbies: economics, investment, study of products and business models, philosophy, astrophysics and travels.
-  As a sport, I do bodybuilding and weightlifting.
-  My favorite bands: The Doors, Pink Floyd, Led Zeppelin, The Cure, Joy Division, New Order and Depeche Mode.<br>
-<br>
+  At the moment I continue to work as a Frontend Developer. <br>
+  I follow the news and trends in development, I develop both in technical and product directions. <br>
+  I go in the direction of Staff and Principal Engineer. <br>
+  I prefer to work on projects using a modern and relevant front-end technology stack: React, TypeScript, JavaScript, Redux. <br>
+  Feature-Sliced Design is my favorite architectural methodology for frontend projects. <br>
+  The priority for me is the joint work in a team aimed at a quality result. <br>
+  I am considering a completely remote or hybrid format of work, open to relocation proposals. <br>
+  I currently live in Istanbul. <br>
+</p>
+<p>
 Skills: <br>
-• Languages: JavaScript, TypeScript, at a basic level: Java, C#, Python, PHP, SQL. <br>
-• Technologies: HTML5/CSS3, LESS, SASS/SCSS, Jest, Unit Testing, ESLint, Redux Thunk, BEM Methodology, Webpack, Babel.js, Ajax, REST, NodeJs, OOP, SOLID, NPM, Firebase, styled-components, Effector.js, Recoil,js. <br>
-• Frameworks and Libraries: ReactJS, Redux, Storybook, Bootstrap, Ant Design, axios, React Router. <br>
-• Data Bases: Microsoft SQL Server, MySQL, SQLite, MongoDB, PostgreSQL. <br>
-• Version Control: Git, GitHub, Gitlab. <br>
-• Software Engineering Management: JIRA, Trello. <br>
-• Agile: KANBAN, SCRUM, Code Review Process, Git-Flow. <br>
-<br>
-
-My hobbies: astrophysics, philosophy, economics and investment, sports. <br>
-<br>
-Favorite music artists: Joy Division, The Cure, The Doors, Pink Floyd, Led Zeppelin. <br>
+•	Languages: JavaScript, TypeScript, at a basic level: NodeJs, Java, C#, Python, SQL;  <br>
+•	Technologies: HTML5/CSS3, SASS/SCSS/LESS, styled-components, css-modules, BEM Methodology, Unit Testing, Jest, Webpack, ESLint, Stylelint, Firebase, Websocket, Docker;  <br>
+•	Frameworks and Libraries: ReactJS, Redux, Storybook, Bootstrap, Ant Design, axios, Ajax, React Router, Redux Toolkit, Mobx, Redux Sagas, Redux Thunk, Effector.js, Recoil.js, i18next, husky;  <br>
+• Design principles:  Feature-Sliced Design, SOLID, KISS, DRY,  OOP, REST;  <br>
+•	Software Engineering Management: JIRA, Trello, Agile, KANBAN, SCRUM, Code Review Process, Git-Flow, GitLab, Miro, Figma;  <br>
+•	Testing: Jest, React-testing-library, Enzyme, WebdriverIO, sypress, puppeteer, hermione, React Profiler, loki. <br>
+</p>
+<p>
+  My hobbies: economics, investment, study of products and business models, philosophy, astrophysics and travels. <br>
+  As a sport, I do bodybuilding and weightlifting. <br>
+  My favorite bands: The Doors, Pink Floyd, Led Zeppelin, The Cure, Joy Division, New Order and Depeche Mode.<br>
 </p>
