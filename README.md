@@ -56,10 +56,33 @@ Here are some ideas to get you started:
 
 ##  About me:
 <p>
-  <b>Frontend Developer.</b> <br>
-• I have commercial relevant experience in working with a technology stack: React, JavaScript, TypeScript, Redux. <br>
-• My current goal is high-quality and speedy professional growth. <br>
-• Persistent in self-studying and mastering new technologies, self-motivated, hard-working and reliable. <br>
+   I'm a Frontend Developer. I have a bachelor's degree in computer science.
+  I have been working in IT for over four years.
+  During my career, I have worked on many projects in the field of medicine, fintech, banking, real estate and construction, developed blogs, online stores and landing pages.
+  On projects, I was responsible for front-end product development, participated in the full development cycle:
+  - developed front-end part of web applications based on React, TypeScript, JavaScript and Redux technology stack,
+  - defined a stack of technologies and tools for the implementation of specific business tasks,
+  - discussed and formalized business requirements,
+  - decomposed tasks, planned team sprints,
+  - designed a scalable and maintainable architecture,
+  - made architectural decisions, improved the quality of the code base and reduced the amount of technical debt of projects, tracked project coverage with tests,
+  - optimized the performance of the client side of web applications,
+  - configured dev build and continuous integration for projects,
+  - participated in the code review of my team, mentoring and introducing new developers to the project.
+
+  At the moment I continue to work as a Frontend Developer.
+  I follow the news and trends in development, I develop both in technical and product directions.
+  I go in the direction of Staff and Principal Engineer.
+  I prefer to work on projects using a modern and relevant front-end technology stack: React, TypeScript, JavaScript, Redux.
+  Feature-Sliced Design is my favorite architectural methodology for frontend projects.
+  The priority for me is the joint work in a team aimed at a quality result.
+  I am considering a completely remote or hybrid format of work, open to relocation proposals.
+  I currently live in Istanbul.
+
+
+  My hobbies: economics, investment, study of products and business models, philosophy, astrophysics and travels.
+  As a sport, I do bodybuilding and weightlifting.
+  My favorite bands: The Doors, Pink Floyd, Led Zeppelin, The Cure, Joy Division, New Order and Depeche Mode.<br>
 <br>
 Skills: <br>
 • Languages: JavaScript, TypeScript, at a basic level: Java, C#, Python, PHP, SQL. <br>
