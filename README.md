@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   I have been working in IT for over four years. <br>
   During my career, I have worked on many projects in the field of medicine, fintech, banking, real estate and construction, developed blogs, online stores and landing pages. <br>
   On projects, I was responsible for front-end product development, participated in the full development cycle: <br>
-  - developed front-end part of web applications based on React, TypeScript, JavaScript and Redux technology stack, <br>
+  - developed front-end part of web applications based on React, TypeScript, JavaScript, REST, GraphQL + Apollo Client, Redux, RTK Query, Next.js technology stack, <br>
   - defined a stack of technologies and tools for the implementation of specific business tasks, <br>
   - discussed and formalized business requirements, <br>
   - decomposed tasks, planned team sprints, <br>
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   At the moment I continue to work as a Frontend Developer. <br>
   I follow the news and trends in development, I develop both in technical and product directions. <br>
   I go in the direction of Staff and Principal Engineer. <br>
-  I prefer to work on projects using a modern and relevant front-end technology stack: React, TypeScript, JavaScript, Redux. <br>
+  I prefer to work on projects using a modern and relevant front-end technology stack: React, TypeScript, JavaScript, REST, GraphQL + Apollo Client, Redux, RTK Query, Next.js. <br>
   Feature-Sliced Design is my favorite architectural methodology for frontend projects. <br>
   The priority for me is the joint work in a team aimed at a quality result. <br>
   I am considering a completely remote or hybrid format of work, open to relocation proposals. <br>
