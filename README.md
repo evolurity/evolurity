@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ##  About me:
 <p>
   <b>I'm a Frontend Developer</b>. I have a bachelor's degree in computer science. <br>
-  I have been working in IT for over four years. <br>
+  I have been working in IT for over five years. <br>
   During my career, I have worked on many projects in the field of medicine, fintech, banking, real estate and construction, developed blogs, online stores and landing pages. <br>
   On projects, I was responsible for front-end product development, participated in the full development cycle: <br>
   - developed front-end part of web applications based on React, TypeScript, JavaScript, REST, GraphQL + Apollo Client, Redux, RTK Query, Next.js technology stack, <br>
