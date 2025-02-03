@@ -25,13 +25,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/nerovny/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/evolurity/">
+  <a href="https://www.instagram.com/nerovny/">
     <img src="https://img.shields.io/badge/instagram-FF00FF.svg?&style=flat&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://vk.com/evolurity">
     <img src="https://img.shields.io/badge/vk-%230077B5.svg?&style=flat&logo=vk&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/evolurity">
+  <a href="https://t.me/nerovny">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=flat&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/evolurity/">
@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/nerovny">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.codewars.com/users/evolurity">
-    <img src="https://www.codewars.com/users/evolurity/badges/small" />        
+  <a href="https://www.codewars.com/users/nerovny">
+    <img src="https://www.codewars.com/users/nerovny/badges/small" />        
   </a>&nbsp;&nbsp;
 </p>
 
